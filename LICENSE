@@ -1,6 +1,28 @@
+Custom Non-Commercial License
+
 Copyright (c) 2024 DGAMECRAFTER
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software, to use, modify, and distribute it, provided that:
-- This software may NOT be used for commercial purposes without explicit permission from the copyright holder.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, modify, and distribute the Software, subject to the following conditions:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+1. **Non-Commercial Use Only**:  
+   - The Software may not be used for any commercial purposes without explicit prior written permission from the copyright holder.  
+   - Commercial purposes include, but are not limited to, selling the Software, incorporating it into paid services, or using it in any way to generate revenue.
+
+2. **Attribution**:  
+   - You must give appropriate credit to the original author, provide a link to the license, and indicate if changes were made.  
+   - You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+3. **Redistribution**:  
+   - You may share copies of the Software, provided this license is included in all copies or substantial portions of the Software.
+
+4. **Modification**:  
+   - You are allowed to modify the Software for personal or non-commercial use. Any modifications must retain this license.
+
+5. **Prohibited Activities**:  
+   - The Software may not be sublicensed, sold, or distributed for commercial purposes.  
+   - You may not use the Software to provide paid services or products.
+
+---
+
+**Disclaimer**:  
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
