@@ -39,7 +39,9 @@ The Help section provides detailed instructions on using each feature of the app
 ArithBinator is designed to make arithmetic and binary calculations easy and intuitive. It is developed by Divan, and the current version is 1.0. For more information, visit the [official GitHub repository](https://github.com/DGAMECRAFTER/ArithBinator).
 
 ## License
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+This project is licensed under a custom non-commercial license.  
+Commercial use of this software is strictly prohibited without prior permission from the copyright holder.  
+See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 For any inquiries or feedback, please reach out via GitHub issues or contact the developer directly.
