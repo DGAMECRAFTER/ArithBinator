@@ -50,7 +50,7 @@ The Help section provides detailed instructions on using each feature of the app
 If you enjoy using **ArithBinator** and want to support its development, you can contribute by using Linkvertise. Simply access the resources and downloads through the links provided, which helps us maintain and improve the application.
 
 - **Download ArithBinator** via [Linkvertise](https://link-hub.net/1253450/arithbinator)
-Thank you for supporting the project!
+- Thank you for supporting the project!
 
 ## About
 **ArithBinator** is designed to make arithmetic and binary calculations easy and intuitive. It is developed by Divan, and the current version is **1.0**. For more information, visit the [official GitHub repository](https://github.com/DGAMECRAFTER/ArithBinator).
