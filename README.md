@@ -1,6 +1,6 @@
 # ArithBinator
 
-**ArithBinator** is an advanced arithmetic and binary calculator developed by Divan. This application allows users to perform various operations on numbers in different number systems, including binary, decimal, octal, and hexadecimal. It features a user-friendly interface built with PyQt5, providing a seamless experience for conversions, binary operations, logical operations, and now **Multiplexer (MUX)** and **Demultiplexer (DEMUX)** functionality.
+**ArithBinator** is an advanced arithmetic and binary calculator developed by Divan Ezadin. This application allows users to perform various operations on numbers in different number systems, including binary, decimal, octal, and hexadecimal. It features a user-friendly interface built with PyQt5, providing a seamless experience for conversions, binary operations, logical operations, and now **Multiplexer (MUX)** and **Demultiplexer (DEMUX)** functionality.
 
 ## Features
 
@@ -44,6 +44,13 @@
 
 ### Help Section
 The Help section provides detailed instructions on using each feature of the application. If you need further assistance, feel free to reach out for help!
+
+## Support the Project
+
+If you enjoy using **ArithBinator** and want to support its development, you can contribute by using Linkvertise. Simply access the resources and downloads through the links provided, which helps us maintain and improve the application.
+
+- **Download ArithBinator** via [Linkvertise](https://link-hub.net/1253450/arithbinator)
+Thank you for supporting the project!
 
 ## About
 **ArithBinator** is designed to make arithmetic and binary calculations easy and intuitive. It is developed by Divan, and the current version is **1.0**. For more information, visit the [official GitHub repository](https://github.com/DGAMECRAFTER/ArithBinator).
