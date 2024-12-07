@@ -53,7 +53,7 @@ If you enjoy using **ArithBinator** and want to support its development, you can
 - Thank you for supporting the project!
 
 ## About
-**ArithBinator** is designed to make arithmetic and binary calculations easy and intuitive. It is developed by Divan, and the current version is **1.0**. For more information, visit the [official GitHub repository](https://github.com/DGAMECRAFTER/ArithBinator).
+**ArithBinator** is designed to make arithmetic and binary calculations easy and intuitive. It is developed by Divan Ezadin, and the current version is **1.1**. For more information, visit the [official GitHub repository](https://github.com/DGAMECRAFTER/ArithBinator).
 
 ## License
 This project is licensed under a custom non-commercial license.  
